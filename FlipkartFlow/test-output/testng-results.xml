@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="85018" started-at="2021-07-22T16:10:43Z" finished-at="2021-07-22T16:12:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="85018" started-at="2021-07-22T16:10:43Z" finished-at="2021-07-22T16:12:08Z">
+      <class name="FlipkartDemo.FlipkartFlow.Demo">
+        <test-method status="PASS" signature="demoFlow(java.lang.String)[pri:0, instance:FlipkartDemo.FlipkartFlow.Demo@14acaea5]" name="demoFlow" duration-ms="30532" started-at="2021-07-22T16:10:43Z" data-provider="dataprovider" finished-at="2021-07-22T16:11:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Samsung Galaxy S10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demoFlow -->
+        <test-method status="PASS" signature="demoFlow(java.lang.String)[pri:0, instance:FlipkartDemo.FlipkartFlow.Demo@14acaea5]" name="demoFlow" duration-ms="29492" started-at="2021-07-22T16:11:14Z" data-provider="dataprovider" finished-at="2021-07-22T16:11:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Samsung Galaxy Note 10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demoFlow -->
+        <test-method status="PASS" signature="demoFlow(java.lang.String)[pri:0, instance:FlipkartDemo.FlipkartFlow.Demo@14acaea5]" name="demoFlow" duration-ms="24962" started-at="2021-07-22T16:11:43Z" data-provider="dataprovider" finished-at="2021-07-22T16:12:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Samsung Galaxy S21 Ultra]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demoFlow -->
+      </class> <!-- FlipkartDemo.FlipkartFlow.Demo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

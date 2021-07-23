@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Flipkart Suite]">
+  <test thread-count="5" name="Test Basics 1(failed)">
+    <classes>
+      <class name="FlipkartDemo.FlipkartFlow.Demo">
+        <methods>
+          <include name="demoFlow" invocation-numbers="0 1 2"/>
+        </methods>
+      </class> <!-- FlipkartDemo.FlipkartFlow.Demo -->
+    </classes>
+  </test> <!-- Test Basics 1(failed) -->
+</suite> <!-- Failed suite [Flipkart Suite] -->
